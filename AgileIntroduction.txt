@@ -1,0 +1,13 @@
+En février 2001, aux États-Unis, dix-sept spécialistes du développement logiciel se sont réunis pour débattre du thème unificateur de leurs méthodes respectives, jusqu'alors appelées sans consensus méthodes lights.
+
+Les plus connus d'entre eux étaient Ward Cunningham l'inventeur du Wiki via WikiWikiWeb, Kent Beck, père de l'extreme programming et cofondateur de JUnit, Ken Schwaber et Jeff Sutherland, fondateurs de Scrum, Jim Highsmith, prônant l'ASD, Alistair Cockburn pour la méthode Crystal clear, Martin Fowler, et Dave Thomas ainsi qu'Arie van Bennekum pour DSDM (Dynamic System Development Method) la version anglaise du RAD (développement rapide d'applications), Robert Cecil Martin pour Clean Architecture.
+
+Parmi les autres signataires, Andy Hunt1, Jared Richardson (fondateur ultérieurement de la méthode GROWS) ou Ron Jeffries2 notamment ont remis en cause ultérieurement non les principes eux-mêmes, mais leur mise en pratique et leur dévoiement notamment à des fins commerciales.
+
+Ces 17 experts venant tous d'horizons différents réussirent à extraire de leurs concepts respectifs des critères pour définir une nouvelle façon de développer des logiciels.
+
+De cette réunion devait émerger le Manifeste agile, considéré comme la définition canonique du développement agile et de ses principes sous-jacents3.
+
+Le Manifeste agile est constitué de quatre valeurs et de 12 principes fondateurs.
+
+
