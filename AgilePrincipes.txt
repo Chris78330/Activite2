@@ -13,3 +13,8 @@ La simplicité – c’est-à-dire l’art de minimiser la quantité de travail 
 Les meilleures architectures, spécifications et conceptions émergent d'équipes auto-organisées.
 À intervalles réguliers, l'équipe réfléchit aux moyens possibles pour devenir plus efficace. Puis elle s'adapte et modifie son mode de fonctionnement en conséquence.
 
+
+Résumé de la mise en pratique
+Le développement agile, appelé aussi développement adaptatif, se caractérise donc par un style de conduite de projet itératif incrémental, centré sur l’autonomie des ressources humaines impliquées dans la spécification, la production et la validation d’une application intégrée et testée en continu (méthode agile).
+
+C’est à partir de ces réalités pratiques, et non pas sur la base d’une théorie globale ou structurante, que l’agilité progresse vers les sphères les plus hautes de l’organisation et participe à la création de ce que l'on peut appeler une culture agile5 de l'organisation.
