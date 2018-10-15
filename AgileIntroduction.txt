@@ -10,4 +10,13 @@ De cette réunion devait émerger le Manifeste agile, considéré comme la défi
 
 Le Manifeste agile est constitué de quatre valeurs et de 12 principes fondateurs.
 
+Les 4 valeurs
+--------------------
 
+Nous découvrons de meilleures approches pour faire du développement logiciel, en en faisant nous-même et en aidant les autres à en faire. Grâce à ce travail nous en sommes arrivés à préférer et favoriser:4 :
+
+Les individus et leurs interactions plus que les processus et les outils.
+Un logiciel qui fonctionne plus qu’une documentation exhaustive.
+La collaboration avec les clients plus que la négociation contractuelle.
+L’adaptation au changement plus que le suivi d’un plan.
+Cela signifie que bien qu'il y ait de la valeur dans les éléments situés à droite, notre préférence se porte sur les éléments qui se trouvent sur la gauche.
